@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chatgpt-proxy/static/css/main.e6c13ad2.css",
+    "main.js": "/chatgpt-proxy/static/js/main.bec73853.js",
+    "static/js/453.ff26c1b4.chunk.js": "/chatgpt-proxy/static/js/453.ff26c1b4.chunk.js",
+    "index.html": "/chatgpt-proxy/index.html",
+    "main.e6c13ad2.css.map": "/chatgpt-proxy/static/css/main.e6c13ad2.css.map",
+    "main.bec73853.js.map": "/chatgpt-proxy/static/js/main.bec73853.js.map",
+    "453.ff26c1b4.chunk.js.map": "/chatgpt-proxy/static/js/453.ff26c1b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bec73853.js"
+  ]
+}

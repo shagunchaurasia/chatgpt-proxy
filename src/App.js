@@ -12,7 +12,7 @@ function App() {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          Authorization: `Bearer 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`,
+          Authorization: `Bearer ${process.env.REACT_APP_OPEN_API_KEY}`,
         },
         body: JSON.stringify({
           model: "gpt-3.5-turbo",
